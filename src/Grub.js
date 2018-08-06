@@ -5,7 +5,6 @@ var Grub = function() {
 
 };
 
-Grub.prototype = function(){
-
-	
+Grub.prototype.eat = function(){
+	return true
 }
